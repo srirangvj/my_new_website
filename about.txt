@@ -1,0 +1,6 @@
+This logo was generated using the following font:
+
+- Font Title: Frank Ruhl Libre
+- Font Author: Copyright 2015 by Yanek Iontef. All rights reserved.
+- Font Source: http://fonts.gstatic.com/s/frankruhllibre/v6/j8_w6_fAw7jrcalD7oKYNX0QfAnPa7fv4JjnmY4.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

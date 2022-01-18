@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather', serif;
+}
+
+h1 {
+    margin: 150px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 4.5em;
+}
+
+h2 {
+    margin: 30px auto 20px auto;
+    color: #35858B;
+}
+
+h3 {
+    color: #35858B;
+}
+
+.Cpp {
+    margin: 50px auto 50px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 1.8;
+}
+.cpp {
+    width: 25%;
+    height: 220px;
+    float: left;
+    margin-right: 40px;
+    margin-top: 70px;
+}
+
+.C {
+    margin: 45px auto 50px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 1.8;
+}
+
+.c {
+    width: 25%;
+    height: 220px;
+    float: left;
+    margin-right: 40px;
+    margin-top: 70px;
+}
+
+.html {
+    margin: 50px auto 50px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.occ {
+    font-size: 1.5rem;
+}
+
+.mountain {
+    height: 500px;
+    width: 100%;
+    position: absolute;
+    top: 469px;
+    left:0px;
+}
+
+.symbol {
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+
+.next-page {
+    background-color: #D3DEDC;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    padding: 20px;
+    height: 930px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.me {
+    height: 500px;
+}
+
+.next-page {
+    font-family: monospace;
+    font-size: 1.2rem;
+}
+
+.about {
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width:5%;
+}
